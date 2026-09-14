@@ -151,6 +151,16 @@ section {
 }
 
 /**************   Contact Page   *****************/
+.contact-heading,
+.contact-details,
+.contact-title {
+  text-align: center;
+}
+
+.contact-section {
+  text-align: center;
+}
+
 .one-col {
   display: grid;
   grid-template-columns: 1fr;
